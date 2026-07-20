@@ -51,4 +51,7 @@ in your first window you will be greeted with
 
  open two browser tabs in your browser and enter "http://localhost:5173/" in the url for both.
  
-  
+# Expected results
+
+enter a room number, eg 1, and join for both browsers
+then send a message and this message will be displayed on both browsers
