@@ -2,11 +2,21 @@
 
 A very crude and elementary chat application which uses the React Javascript framework and notable libraries including.
 
-  socket.io-client
-  nodemon
-  express
-  socket.io
+  socket.io-client,
+  nodemon,
+  express,
+  socket.io,
   cors
+
+# Pre-requesites
+
+https://nodejs.org/en/download -> download Node.JS
+
+then press windows key and search for advanced system settings 
+this will open a window, navigate to the environment vars button
+then select path
+click the edit button 
+then select a cell and ensure "C:\Users\PC\AppData\Roaming\npm" is entered
 
 # How to install
 
