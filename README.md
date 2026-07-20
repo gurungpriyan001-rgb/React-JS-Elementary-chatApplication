@@ -2,11 +2,11 @@
 
 A very crude and elementary chat application which uses the React Javascript framework and notable libraries including.
 
-  socket.io-client,
-  nodemon,
-  express,
-  socket.io,
-  cors
+- npm install socket.io-client,
+- npm install nodemon,
+- npm install express,
+- npm install socket.io,
+- npm install cors
 
 # Pre-requesites
 
